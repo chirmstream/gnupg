@@ -1,2 +1,0 @@
-# gnupg
-mirror of GnuPG
